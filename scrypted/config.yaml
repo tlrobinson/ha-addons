@@ -13,7 +13,7 @@ environment:
 backup_exclude:
   - /server
 webui: "https://[HOST]:[PORT:10443]"
-stage: experimental
-advanced: true
+# stage: experimental
+# advanced: true
 map:
   - config:rw
